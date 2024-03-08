@@ -285,7 +285,7 @@ h1 {
     padding: 10px;
     text-align: center;
     border-radius: 5px;
-    animation: jump 2s infinite; /* Aplica la animación jump durante 2 segundos de forma infinita */
+    animation: jump 2s infinite; 
 }
 
 .img{
@@ -313,7 +313,7 @@ h1 {
 
 
 .slide-p {
-    perspective: 1000px; /* Establece la perspectiva para las transformaciones 3D */
+    perspective: 1000px; 
     display: flex;
     justify-content: center;
     align-items: center;
